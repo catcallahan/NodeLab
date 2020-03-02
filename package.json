@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/catcallahan/NodeLab/issues"
   },
-  "homepage": "https://github.com/catcallahan/NodeLab#readme"
+  "homepage": "https://github.com/catcallahan/NodeLab#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
